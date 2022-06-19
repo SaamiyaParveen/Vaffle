@@ -1,0 +1,4 @@
+nav ul{
+ display flex karne se horizontally aajayenge items
+ list style type none se list ke bullet point hatenge
+nav bar ki height change ki and bg color black se wo pta chala
